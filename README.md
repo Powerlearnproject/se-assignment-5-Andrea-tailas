@@ -19,7 +19,7 @@ Answer the following questions based on your understanding of the installation a
 .Storage space of atleast 500GB (HDD)/256GB(SSD)
 .Display resolution of atleast 1024 x 768
 .NET Framework 4.5.2 or better
-Latest version of Git (for Git source control features)
+.Latest version of Git (for Git source control features)
 
 i)Download and installation
 ![alt text](<Screenshots/1. INSTALLER.png>)
@@ -56,17 +56,17 @@ Enabling "Autosave"
 
 (c). Extentions: The extentions I installed;
 
-Prettier - Code formatter
-GitLens
-Live Server
-Path Intellisense
-Python
-Intellicode
-Code runner
-HTML CSS Support
-Docker
-Markdown All in One
-Remote - WSL
+.Prettier - Code formatter
+.GitLens
+.Live Server
+.Path Intellisense
+.Python
+.Intellicode
+.Code runner
+.HTML CSS Support
+.Docker
+.Markdown All in One
+.Remote - WSL
 
 
 3. User Interface Overview:
@@ -78,20 +78,20 @@ Remote - WSL
 
 The Activity Bar is located on the far left side of the VS Code window. It provides access to different views and features through a series of icons.(The purpose of the Activity Bar is to provide quick navigation between these different functionalities, enhancing workflow efficiency). The default icons include
 
-Explorer: Shows a tree view of your project files and folders.
-Search: Allows you to search for files and content within your project.
-Source Control: Integrates with version control systems like Git.
-Run and Debug: Provides debugging controls and configurations.
-Extensions: Lets you browse, install, and manage extensions.
+.Explorer: Shows a tree view of your project files and folders.
+.Search: Allows you to search for files and content within your project.
+.Source Control: Integrates with version control systems like Git.
+.Run and Debug: Provides debugging controls and configurations.
+.Extensions: Lets you browse, install, and manage extensions.
 (b). SIDE BAR
 
 The Side Bar is adjacent to the Activity Bar and changes its content based on the selected Activity Bar icon:(This provides detailed views and controls for the selected activity, allowing for efficient management and navigation).
 
-File Explorer: Lists all files and folders in your current project.
-Search Results: Shows results from a search query.
-Source Control Panel: Displays version control status, changes, and controls.
-Run and Debug Panel: Offers debugging options and configurations.
-Extensions Panel: Lists installed extensions and allows you to search for new ones.
+.File Explorer: Lists all files and folders in your current project.
+.Search Results: Shows results from a search query.
+.Source Control Panel: Displays version control status, changes, and controls.
+.Run and Debug Panel: Offers debugging options and configurations.
+.Extensions Panel: Lists installed extensions and allows you to search for new ones.
 (c). EDITOR GROUP
 
 The Editor Group is the central part of the VS Code interface where you write and view code. It supports multiple tabs and split views, allowing you to:
@@ -103,12 +103,12 @@ View and edit files in different layouts to optimize screen space and workflow.
 
 The Status Bar is located at the bottom of the VS Code window. It provides useful information and controls, including:
 
-Current Line and Column Number: Shows the cursor’s position in the active file.
-Programming Language Mode: Displays the current file's language mode, which you can change by clicking on it.
-Branch and Repository Status: Shows the current Git branch and repository status.
-Error and Warning Counts: Indicates the number of errors and warnings in the current file.
-Live Server: If you have the Live Server extension installed, it provides a button to start the server.
-Notifications: Shows information about tasks, updates, and other notifications.
+.Current Line and Column Number: Shows the cursor’s position in the active file.
+.Programming Language Mode: Displays the current file's language mode, which you can change by clicking on it.
+.Branch and Repository Status: Shows the current Git branch and repository status.
+.Error and Warning Counts: Indicates the number of errors and warnings in the current file.
+.Live Server: If you have the Live Server extension installed, it provides a button to start the server.
+.Notifications: Shows information about tasks, updates, and other notifications.
 
 
 4. Command Palette:
@@ -122,11 +122,11 @@ Notifications: Shows information about tasks, updates, and other notifications.
 
 (b). COMMON TASKS:
 
-Opening Files and Folders
-Command Execution (e.g. document formating, toggle terminal)
-Source Control (e.g. git commit and git pull)
-Extensions (e.g installing extensions)
-View and Navigation
+.Opening Files and Folders
+.Command Execution (e.g. document formating, toggle terminal)
+.Source Control (e.g. git commit and git pull)
+.Extensions (e.g installing extensions)
+.View and Navigation
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
@@ -157,12 +157,12 @@ It can be used for basic operations such as opening a new terminal, switching be
 The terminal can be size adjusted and be split into two side-by-side panels.
 (c). ADVANTAGES:
 
-Contextual awareness: commands executed in the integrated terminal have direct access to the VS Code environment, ensuring consistency and reducing setup time.
-Seamless workflow: Running commands, debugging, and viewing output within the same window enhances productivity by reducing the need to switch between applications.
-integrated features:The terminal can utilize VS Code extensions and settings, providing features such as syntax highlighting, IntelliSense, and command history.
-Multitasking: Multiple terminal sessions can be run simultaneously, each with its own dedicated panel.
-Customizable appearances:The appearance of the integrated terminal can be customized to match your theme and preferences, creating a visually consistent development environment.
-Cross-Platform consistency:The integrated terminal provides a consistent interface and behavior across different operating systems, reducing the learning curve and simplifying development on multiple platforms.
+.Contextual awareness: commands executed in the integrated terminal have direct access to the VS Code environment, ensuring consistency and reducing setup time.
+.Seamless workflow: Running commands, debugging, and viewing output within the same window enhances productivity by reducing the need to switch between applications.
+i.ntegrated features:The terminal can utilize VS Code extensions and settings, providing features such as syntax highlighting, IntelliSense, and command history.
+.Multitasking: Multiple terminal sessions can be run simultaneously, each with its own dedicated panel.
+.Customizable appearances:The appearance of the integrated terminal can be customized to match your theme and preferences, creating a visually consistent development environment.
+.Cross-Platform consistency:The integrated terminal provides a consistent interface and behavior across different operating systems, reducing the learning curve and simplifying development on multiple platforms.
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
@@ -246,25 +246,25 @@ v. Pushing Changes to GitHub - Add a Remote Repository: Open the terminal within
 
 REFERENCES:
 
-Microsoft Visual Studio Code Documentation. Available at: https://code.visualstudio.com/docs
+.Microsoft Visual Studio Code Documentation. Available at: https://code.visualstudio.com/docs
 
-Visual Studio Code - GitHub Repository. Available at: https://github.com/microsoft/vscode
+.Visual Studio Code - GitHub Repository. Available at: https://github.com/microsoft/vscode
 
-"Getting Started with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/introvideos
+."Getting Started with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/introvideos
 
-"Visual Studio Code: End-to-End Editing and Debugging Tools for Web Developers" by J. Johnson. ACM, 2019. DOI: 10.1145/3289600
+."Visual Studio Code: End-to-End Editing and Debugging Tools for Web Developers" by J. Johnson. ACM, 2019. DOI: 10.1145/3289600
+.
+."Mastering Visual Studio Code" by A. Dang. Packt Publishing, 2021. ISBN: 9781803230088.
 
-"Mastering Visual Studio Code" by A. Dang. Packt Publishing, 2021. ISBN: 9781803230088.
+."Visual Studio Code for JavaScript Developers" by S. Ward. Apress, 2020. ISBN: 9781484265184.
 
-"Visual Studio Code for JavaScript Developers" by S. Ward. Apress, 2020. ISBN: 9781484265184.
+."Using Git with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/versioncontrol
 
-"Using Git with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/versioncontrol
+."Visual Studio Code: A Comprehensive Guide" by D. Tyson. O'Reilly Media, 2022. ISBN: 9781492084054.
 
-"Visual Studio Code: A Comprehensive Guide" by D. Tyson. O'Reilly Media, 2022. ISBN: 9781492084054.
+."Debugging in Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/debugging
 
-"Debugging in Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/debugging
-
-"Introduction to Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/intro
+."Introduction to Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/intro
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
